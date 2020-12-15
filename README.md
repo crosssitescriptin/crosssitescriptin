@@ -5,11 +5,9 @@
 
 🚨 One of the Founders of [0sec](https://0sec.systems) 🚨
 
-🔧 Main exploitation i do is Web, Kernel, Binary, and Console | 🎮 Gaming wise i like Watch dogs, CoD, and osu!
-
-🔧 Im a Networker and systems exploiter
-
-🔧 I post my Projects lol
+-🔧 Main exploitation i do is Web, Kernel, Binary, and Console | 🎮 Gaming wise i like Watch dogs, CoD, and osu!
+-🔧 Im a Networker and systems exploiter
+-🔧 I post my Projects lol
 
 
 ### 💬 Where to find me:
