@@ -7,7 +7,7 @@
 🚨 One of the Founders of [0sec](https://0sec.systems) 🚨
 
 
-🔧 Main Language i code in is python 
+🔧 Main exploitation i do is Web, Kernel, Binary, and Console 
 
 🔧 Im a Networker and systems exploiter
 
