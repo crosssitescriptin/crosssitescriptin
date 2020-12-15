@@ -22,6 +22,6 @@
 
 ### 💬 What Groups i'm in:
 
-- ~ tbsv2
+- ~ skidalations
 - ~ GoblinGang
 - ~ 0Sec: https://0sec.network/
