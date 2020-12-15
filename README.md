@@ -4,7 +4,7 @@
 </p>
 
 
-🍨 One of the Founders of [0sec](https://0sec.systems) 
+🚨 One of the Founders of [0sec](https://0sec.systems) 🚨
 
 
 🔧 Main Language i code in is python 
