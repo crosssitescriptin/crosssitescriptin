@@ -21,3 +21,11 @@
 - Instagram: https://www.instagram.com/crosssitescriptin/
 - Website: https://0sec.network
 - Website: https://0sec.systems
+
+
+
+### 💬 What Groups i'm in:
+
+~ tbsv2
+~ GoblinGang
+~ 0Sec: https://0sec.network/
