@@ -1,7 +1,8 @@
 ## Welcome:
 <p>
-  <img width="200" alt="hello!" align="left" src="https://media.tenor.co/videos/4ce5fa37040e86037507ba03d878313f/mp4"
+  <img width="200" alt="hello!" align="left" src="https://media1.tenor.com/images/72c9b849aa10b222371ebb99a6b1896a/tenor.gif">
 </p>
+
 
 🍨 One of the Founders of [0sec](https://0sec.systems) 
 
