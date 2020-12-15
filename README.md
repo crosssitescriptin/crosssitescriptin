@@ -5,10 +5,10 @@
 
 🚨 One of the Founders of [0sec](https://0sec.systems) 🚨
 
--🔧 Main exploitation i do is Web, Kernel, Binary, and Console | 🎮 Gaming wise i like Watch dogs, CoD, and osu!
+-🔧 Main exploitation i do is Web, Kernel, Binary, and Console 
 -🔧 Im a Networker and systems exploiter
 -🔧 I post my Projects lol
-
+-🎮 Gaming wise i like Watch dogs, CoD, and osu!
 
 ### 💬 Where to find me:
 - Twitter: https://twitter.com/hexdumping
