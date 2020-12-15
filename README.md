@@ -1,4 +1,4 @@
-## Hello im Incon!!, Welcome to my GitHub.:
+## Hello im Incon!!, Welcome to my GitHub!;
 <p>
   <img width="200" alt="hello!" align="left" src="https://media.giphy.com/media/VUC9YdLSnKuJy/giphy.gif">
 </p>
