@@ -26,6 +26,6 @@
 
 ### 💬 What Groups i'm in:
 
-~ tbsv2
-~ GoblinGang
-~ 0Sec: https://0sec.network/
+- ~ tbsv2
+- ~ GoblinGang
+- ~ 0Sec: https://0sec.network/
