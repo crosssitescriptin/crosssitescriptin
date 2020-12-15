@@ -3,17 +3,13 @@
   <img width="200" alt="hello!" align="left" src="https://media.giphy.com/media/VUC9YdLSnKuJy/giphy.gif">
 </p>
 
-
 🚨 One of the Founders of [0sec](https://0sec.systems) 🚨
 
-
-🔧 Main exploitation i do is Web, Kernel, Binary, and Console 
+🔧 Main exploitation i do is Web, Kernel, Binary, and Console | 🎮 Gaming wise i like Watch dogs, CoD, and osu!
 
 🔧 Im a Networker and systems exploiter
 
 🔧 I post my Projects lol
-
-
 
 
 ### 💬 Where to find me:
