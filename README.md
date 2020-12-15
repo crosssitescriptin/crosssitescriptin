@@ -12,8 +12,7 @@
 
 
 
-### 
-💬 Where to find me:
+### 💬 Where to find me:
 - Twitter: https://twitter.com/hexdumping
 - Instagram: https://www.instagram.com/crosssitescriptin/
 - Website: https://0sec.network
