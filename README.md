@@ -25,3 +25,16 @@
 - ~ skidalations
 - ~ GoblinGang
 - ~ 0Sec: https://0sec.network/
+
+
+### 💬 Certs Finished/pursuing:
+- CEH 
+- GPEN
+- A+
+- Security+
+===============================
+- OSCP
+- CPT
+- CEPT
+
+
