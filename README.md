@@ -32,6 +32,7 @@
 - GPEN
 - A+
 - Security+
+- Cyber Ops
 - ===============================
 - OSCP
 - CPT
