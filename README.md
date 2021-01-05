@@ -22,10 +22,10 @@
 
 ### 💬 What Groups i'm in:
 
-- ~ skidalations
+- ~ Mimesec
 - ~ GoblinGang
 - ~ 0Sec: https://0sec.network/
-
+- ~ xanarchy
 
 ### 💬 Certs Finished/pursuing:
 - CEH 
