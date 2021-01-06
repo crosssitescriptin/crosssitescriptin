@@ -10,8 +10,11 @@
 -🔧 I post my Projects lol
 -🎮 Gaming wise i like Watch dogs, CoD, and osu!
 
-
-
+|
+|
+|
+|
+|
 ### 💬 Where to find me:
 - Twitter: https://twitter.com/hexdumping
 - Instagram: https://www.instagram.com/crosssitescriptin/
