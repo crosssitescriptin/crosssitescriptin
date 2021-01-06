@@ -30,16 +30,6 @@
 - ~ 0Sec: https://0sec.network/
 - ~ xanarchy
 
-### 💬 Certs Finished/pursuing:
-- CEH 
-- GPEN
-- A+
-- Security+
-- Cyber Ops
-- ===============================
-- OSCP
-- CPT
-- CEPT
-- LPT 
-- MTA
+###  Vlone.
+
 
