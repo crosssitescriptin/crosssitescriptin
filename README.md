@@ -5,7 +5,7 @@
 
 🚨 One of the Founders of [0sec](https://0sec.systems) 🚨
 
--🔧 I do infosec and  
+-🔧 I do infosec
 -🔧 Ex blackhat
 -🔧 I post my Projects lol
 -🎮 Gaming wise i like Watch dogs, CoD, and osu!
