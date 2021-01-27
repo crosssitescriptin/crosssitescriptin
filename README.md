@@ -26,9 +26,11 @@
 ### 💬 What Groups i'm in:
 
 - ~ Goosecorp
-- ~ GoblinGang
+- ~ NekoSquad
 - ~ 0Sec: https://0sec.network/
 - ~ xanarchy
+- ~ Datanazi
+- ~ isisgang
 
 ###  Vlone.
 
