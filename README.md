@@ -25,7 +25,7 @@
 
 ### 💬 What Groups i'm in:
 
-- ~ Mimesec
+- ~ Goosecorp
 - ~ GoblinGang
 - ~ 0Sec: https://0sec.network/
 - ~ xanarchy
